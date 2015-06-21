@@ -1,0 +1,3 @@
+[submodule "HTMLRenderingTableView/External/Externals/DTCoreText"]
+	path = HTMLRenderingTableView/External/Externals/DTCoreText
+	url = https://github.com/Cocoanetics/DTCoreText.git

@@ -1,7 +1,8 @@
 # swift-snippets
 Snippets of swift code
 
-Each snippet comes with some test code. Download the repo and run tests to validate.
+Each snippet comes with some test code or example application.
 
 Current Projects: 
- * Max for optionals
+ * Max for optionals (run tests to validate)
+ * HTML Rendering in TableViewCell
